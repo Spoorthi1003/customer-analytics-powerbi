@@ -9,10 +9,10 @@ The goal is to transform raw transaction data into actionable business insights 
 # Business Problem
 E-commerce businesses often struggle to answer key questions such as:
 
-Are customers returning after their first purchase?
-Who are the most valuable customers?
-How does customer behavior change over time?
-What drives revenue growth — new customers or repeat customers?
+1.Are customers returning after their first purchase?
+2.Who are the most valuable customers?
+3.How does customer behavior change over time?
+4.What drives revenue growth — new customers or repeat customers?
 
 This project addresses these questions by building a comprehensive analytics dashboard.
 
@@ -21,17 +21,17 @@ Online Retail Dataset by UCI Machine Learning Repository
 https://archive.ics.uci.edu/dataset/352/online+retail
 
 # Tools Used
-Power BI
-DAX (Data Analysis Expressions)
-Power Query (Data Cleaning & Transformation)
-Excel (Data Source)
+1.Power BI
+2.DAX (Data Analysis Expressions)
+3.Power Query (Data Cleaning & Transformation)
+4.Excel (Data Source)
 
 # Process
-Cleaned and transformed raw transactional data using Power Query by handling missing values, invalid records, and fixing data types
-Built a data model with fact and dimension tables, including a dedicated date table
-Created DAX measures for key metrics such as revenue, orders, customers, and average order value
-Developed customer-level analysis including new vs repeat customers and cohort-based retention tracking
-Implemented RFM-based customer segmentation and designed an interactive multi-page dashboard for insights
+1.Cleaned and transformed raw transactional data using Power Query by handling missing values, invalid records, and fixing data types
+2.Built a data model with fact and dimension tables, including a dedicated date table
+3.Created DAX measures for key metrics such as revenue, orders, customers, and average order value
+4.Developed customer-level analysis including new vs repeat customers and cohort-based retention tracking
+5.Implemented RFM-based customer segmentation and designed an interactive multi-page dashboard for insights
 
 # Customer Segments
 
