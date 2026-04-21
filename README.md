@@ -37,10 +37,10 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 Customers were segmented using RFM logic into:
 
-High Value → High spend and high purchase frequency
-Loyal → Frequent buyers with moderate spend
-At Risk → Customers inactive for a long time
-Low Value → Low spend and low engagement
+- High Value → High spend and high purchase frequency
+- Loyal → Frequent buyers with moderate spend
+- At Risk → Customers inactive for a long time
+- Low Value → Low spend and low engagement
 
 # Key Insights
 - Revenue growth is primarily driven by repeat customers rather than new acquisitions
